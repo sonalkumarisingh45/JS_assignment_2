@@ -1,5 +1,7 @@
 /*
 
+// this ia comment
+
 Q3. Find the maximum out of three numbers.
 Take three numbers and print the largest number among them if all of three are same print −1−1. Note: You have to complete Max_out_of_three. No need to take any input.
 Input Format
